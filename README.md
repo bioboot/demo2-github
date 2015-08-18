@@ -14,4 +14,7 @@ To learn more about markdown visit <https://help.github.com/articles/markdown-ba
 - Use your command line knowledge of git to inspect history, contributors and differences.
 - Which do you prefer, GitHub or Bitbucket?
 
+Now create your own GitHub account at <https://github.com/> by using your UMICH email and a distinct passwd.
+- Create your fist GitHub repo by following these instructions < https://help.github.com/articles/create-a-repo/ >
+ 
 
