@@ -28,7 +28,7 @@ Now create your own GitHub account at <https://github.com/> by using your UMICH 
 Congratulations! You've successfully created your first repository on GitHub, and initialized it with a _README_ file.
 
 ## Third steps
-- On your machine cd to your new repo and add some content to the READM.md file. Also create another file called ToDo.md with some items on your to-do list.
+- On your machine cd to your new repo and add some content to the **READMe.md** file. Also create another file called **ToDo.md** with some items on your to-do list.
 - Now add these to your local staging area with `git add README.md ToDo.md`
 - Commit these to your local repo (i.e. still on your machine only) with `git commit -m "Edit README.md and add ToDo.md"
 - Push these to your **remote** GitHub repo with 'git push -u origin master'
@@ -38,29 +38,29 @@ Congratulations! you have just updated your GitHub repo.
 ## Fourth steps
 - Now partner with the person beside you and decide on **ONE repo** that you would like to collaborate on (i.e. the person on the right).
 - If you are the owner of this **One repo** add the other person as a collaborator to your GitHub repo.
-- Ask for the username of the person you're adding as a collaborator. 
+- Ask for the **username** of the person you're adding as a collaborator. 
 - On GitHub, navigate to the main page of the repository.
-- In the repository's right sidebar, click  **Settings** (it looks like a little gear)
-- Click the "Collaborators" tab.
+- In the repository's right sidebar, click  **Settings** (it looks like a little gear icon)
+- Click the "**Collaborators**" tab.
 - Start typing the collaborator's username.
 - Select the user from the drop-down menu.
-- Click Add.
+- Click **Add**.
 
 ### Contributing to your partners repo
-- If you are the collaborator, clone your partners repo by getting the URL from GitHub.
-- Modify some of the files (for example add some content to the ToDo.md file)
+- If you are the collaborator, clone your partners repo by getting the URL from GitHub (`git clone <URL>`.
+- Modify some of the files (for example add some content to the **ToDo.md** file)
 - Go through the regular git add/git commit cycle.
-- Push these changes to GitHub with 'git push -u origin master'
+- Push these changes to GitHub with `git push -u origin master`
 
 Congratulations! you have now contributed to a shared collaborative repo! 
 
 ## Fifth steps
-- now together with your partner pick a common line and edit it in different ways
-- First 'git pull origin master'
-- Make your changes, add/commit/push
+- now together with your partner pick a common line and edit it in different ways so you will have two distinct versions.
+- First `git pull origin master` to sync with remote repo.
+- Then `add/commit/push` your changes to GitHub.
 - What happened?
 
-Can you fix the **conflict**?
+Can you fix your first **conflict**?
 
 
 
