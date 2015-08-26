@@ -1,46 +1,42 @@
-# demo2-github
-An example for students of BIOS606
+# GitHub Demo2 
+An example for students of [biocomputing bootcamp BIOS606](http://bioboot.github.io/web-2015/)
 
-Please use this repo to inspect how GitHub and BitBucket present commit history and their associated differences.
+We will first use this repo to inspect how GitHub and BitBucket present commit history and their associated differences. Then we will explore different way to colloborate with others through the GitHub version of this repo.
 
 Note that this is a Markdown format text file. These are often used for documentation purposes as they allow easy 
 text formatting and are rendered nicely by both GitHub and Bitbucket.
 
-To learn more about markdown visit <https://help.github.com/articles/markdown-basics/>.
+To learn more about markdown on your own time visit <https://help.github.com/articles/markdown-basics/>.
 
-For this hands-on exercise please complete the five steps below: 
+For this second GitHub demo (hands-on exercise) please complete the steps below and remember to please feel free to talk to your neighbors and ask questions as you go: 
 
 ## 1. Exploring and comparing [GitHub](https://github.com/bioboot/demo2-github) and [Bitbucket](https://bitbucket.org/bjgrant/demo2-github/).
-
+- In your terminal first make sure you are in a suitable working directory, e.g. `~/Desktop/git_class`
 - Clone this repo with `git clone https://github.com/bioboot/demo2-github.git`
-- Browse this repo on the websites of [GitHub](https://github.com/bioboot/demo2-github) and [Bitbucket](https://bitbucket.org/bjgrant/demo2-github/).
-- Use your command line knowledge of git to inspect history, contributors and differences.
+- Then `cd demo2-github/` and use your command line knowledge of git to inspect history (`git log`), contributors and differences.
+- Now browse the two online version of this same repo on the websites of [GitHub](https://github.com/bioboot/demo2-github) and [Bitbucket](https://bitbucket.org/bjgrant/demo2-github/).
 - Which do you prefer, GitHub or Bitbucket?
 
-## 2. Creating your own GitHub account
-Now create your own GitHub account at <https://github.com/> by using your UMICH email and a distinct passwd. Then create your fist GitHub repo by following these instructions:
-
-- In the upper-right corner of any page, click **+** (plus symbol), and then click **New repository**.
-- Create a name for your repository. For example, "demo3-github-barry". (**note please replace barry with your unique name!**)
-- Optionally, add a description of your repository. For example, "My first repository on GitHub."
-- Choose a **public** repository. (Note that these are visible to any user on GitHub, so you can benefit from a collaborative community, but do please keep your content clean! 
-- Select **Initialize this repository with a README**.
-- Click Create repository.
-- You can now edit your README.md file on GitHub or just clone to your machine with `git clone <URL>`
 
 
-Congratulations! You've successfully created your first repository on GitHub, and initialized it with a _README_ file.
+## 2.  Exploring Pull requests
+There are two basic models for collaborating on GitHub and BitBucket. These are known as the **Shared repository model** and the **Fork & pull model** (often just refered to as **Pull requests**).
 
-## 3. Syncing local and remote repos.
 
-- On your machine cd to your new repo and add some content to the **README.md** file. Also create another file called **ToDo.md** with some items on your to-do list.
-- Now add these to your local staging area with `git add README.md ToDo.md`
-- Commit these to your local repo (i.e. still on your machine only) with `git commit -m "Edit README.md and add ToDo.md"
-- Push these to your **remote** GitHub repo with 'git push -u origin master'
+1. The **shared repository model** is more prevalent with small teams and organizations collaborating on private projects. Everyone is granted **push** access to a single shared repository and different branches are primirarly used to isolate major changes whilst small changes typically get pushed directely to the default **master** branch as you have already done in **demo1**.
 
-Congratulations! you have just updated your GitHub repo.
 
-## 4. Collaborating with remote repos.
+2. The **fork & pull model** lets anyone fork an existing repository and push changes to their personal fork without requiring access be granted to the source repository. The changes must then be pulled into the source repository by the project maintainer. This model reduces the amount of friction for new contributors and is very popular with open source projects because it allows people to work independently without upfront coordination.
+
+
+Here we will explore the *fork & pull** approach as it can be used with any public repo on GitHub or Bitbucket.
+- You already have a cone of this repo on your local macine from step one above that you can modify locally and also **pull** updates from.
+- However, you don't have permissions to **push** your changes to this origional GitHub repo. Go ahead and try...
+- On your local machine (i.e. laptop) open the JustOneThing.md file and add your first name in bold (i.e. surrounded by two starts on either side) and one thing that was not completely clear from todays class thus far (e.g. "staging area").
+- Now submit a pull request.
+- sentence What happes if You can of course modify away on this local 'sandboxed' copy
+
+Collaborating with remote repos.
 
 - Now partner with the person beside you and decide on **ONE repo** that you would like to collaborate on (i.e. the person on the right).
 
