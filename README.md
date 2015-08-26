@@ -12,11 +12,19 @@ For this second _hands-on_ GitHub demo please complete the steps in each of the 
 
 ## 1. Exploring and comparing [GitHub](https://github.com/bioboot/demo2-github) and [Bitbucket](https://bitbucket.org/bjgrant/demo2-github/).
 - In your terminal first make sure you are in a suitable working directory, e.g. 
-    cd ~/Desktop/git_class
+```
+cd ~/Desktop/git_class
+```
+
 - Clone this repo with 
+```
     git clone https://github.com/bioboot/demo2-github.git
+```
+
 - Then `cd demo2-github/` and use your command line knowledge of git to inspect history (`git log`), contributors (`git blame`) and differences (`git diff`).
+
 - Now browse the two online version of this same repo on the websites of [GitHub](https://github.com/bioboot/demo2-github) and [Bitbucket](https://bitbucket.org/bjgrant/demo2-github/).
+
 - Which do you prefer, GitHub or Bitbucket? Plese discuss with your neighbor and let your instructors know so we can discuss more broadly wit the class.
 
 
@@ -50,7 +58,9 @@ Like many things in the computing world this sounds more complicated than it rea
 ![img1](https://help.github.com/assets/images/help/repository/fork_button.jpg)
 
 - Now after a short time you should be taken to a new webpage displaying your OWN fork (i.e. your personal copy) of the repo under your GitHub account.
+
 - Examine this forked repo. It should look excately the same as the origional but with the subtle "forked from bioboot/demo2-github" note under the title.
+
 - We will now clone this forked repo to your local computer by using the link provided from clicking the somewhat obscure **copy icon** (see image below for an example of the clipboard like icon GitHub like to use).
 
 ![im2](https://help.github.com/assets/images/help/repository/clone-repo-clone-url-button.png)
@@ -62,24 +72,33 @@ git clone https://github.com/YOUR-USERNAME/demo2-github.git myForkedCopy
 ```
 
 - Now, you have a local clone of the forked repo on your computer in a new directory named **myForkedCopy**.
+
 - Lets cd into this directory and edit the file **JustOneThing.md** with nano or other means to add your name and a comment (see below). 
 
+```
     cd myForkedCopy
     echo “**Barry**:  Git and GitHub has a step learning curve” >> JustOneThing.md
+```
 
 For example, add your first name in bold (i.e. surrounded by two starts on either side) and one thing that was not completely clear from todays class thus far (e.g. "staging area", "remote repos" or "where is the coffee?").
 
 
 - Once you have edited your file in nano go through the regular **git add/commit/push** steps, e.g.
 
+```
     git add JustOneThing.md
     git commit -m “Edit in my fork of JustOneThing.md"
     git push origin master
+```
 
 - Check that your changes are on-line in YOUR GitHub forked copy.
+
 - Now go to the **pull requests** link on the right hand side
+
 - Click the **New pull request** green button
+
 - It should say *These branches can be automatically merged*
+
 - Add a message such as “Eva's changes from fork” and click **Create pull request** button.
 
 
