@@ -13,7 +13,7 @@ For this second _hands-on_ GitHub demo please complete the steps in each of the 
 ## 1. Exploring and comparing [GitHub](https://github.com/bioboot/demo2-github) and [Bitbucket](https://bitbucket.org/bjgrant/demo2-github/).
 - In your terminal first make sure you are in a suitable working directory, e.g. 
 ```
-cd ~/Desktop/git_class
+    cd ~/Desktop/git_class
 ```
 
 - Clone this repo with 
@@ -68,7 +68,7 @@ Like many things in the computing world this sounds more complicated than it rea
 -  When cloning on your computer this time we will add a different destination name of **"myForkedCopy"** after the https address so as to help avoid potential confusion with the repo from step one above. For example:  
 
 ```
-git clone https://github.com/YOUR-USERNAME/demo2-github.git myForkedCopy
+    git clone https://github.com/YOUR-USERNAME/demo2-github.git myForkedCopy
 ```
 
 - Now, you have a local clone of the forked repo on your computer in a new directory named **myForkedCopy**.
@@ -77,10 +77,10 @@ git clone https://github.com/YOUR-USERNAME/demo2-github.git myForkedCopy
 
 ```
     cd myForkedCopy
-    echo “**Barry**:  Git and GitHub has a step learning curve” >> JustOneThing.md
+    #echo “**Barry**:  Git and GitHub has a step learning curve” >> JustOneThing.md
 ```
 
-For example, add your first name in bold (i.e. surrounded by two starts on either side) and one thing that was not completely clear from todays class thus far (e.g. "staging area", "remote repos" or "where is the coffee?").
+For example, add YOUR first name in bold (i.e. surrounded by two starts on either side) and one thing that was not completely clear from todays class thus far (e.g. "staging area", "remote repos" or "where is the coffee?").
 
 
 - Once you have edited your file in nano go through the regular **git add/commit/push** steps, e.g.
@@ -93,7 +93,18 @@ For example, add your first name in bold (i.e. surrounded by two starts on eithe
 
 - Check that your changes are on-line in YOUR GitHub forked copy.
 
-- Now on YOUR GitHub forked copy click the little green **Compare, Review and create pull request** button toward the top left of the page and that has the two little curved arrows (see below).
+- Do a final check that your repo is uptodate with the origional repo from which you forked by doing a regular git pull but directed to the origional repo.
+
+```
+    # First set the original repo as a remote with the name "upstream" 
+    git remote add upstream https://github.com/bioboot/demo2-github.git
+
+    # List the location/address of your remotes
+    git remote -v
+    git pull upstream master
+```    
+
+- Now on YOUR GitHub forked copy click the little green **Compare, Review and create pull request** button toward the top left of the page. This looks a bit like a small icon that has the two little curved white arrows (see below).
 
 ![pull request button](https://help.github.com/assets/images/help/pull_requests/pull-request-start-review-button.png)
 
@@ -101,12 +112,14 @@ For example, add your first name in bold (i.e. surrounded by two starts on eithe
 
 ![create pull request button](https://help.github.com/assets/images/help/pull_requests/pull-request-click-to-create.png)
 
-- If you have a note saying that *These branches can be automatically merged* You should add a message describing your changes such as “Eva's name and sentence changes from fork” and click **Create pull request** button.
+- If you have a note saying that *These branches can be automatically merged* You should add a message describing your changes such as “Eva's name and sentence changes from fork” and click **Create pull request** button to submit your changes for review to the original repo.
 
 ![Final create pull request button](https://help.github.com/assets/images/help/pull_requests/pullrequest-send.png)
 
 
-Thats it, you can leave this page as your changes have been sent to the package maintainers (everyone who has push access on the original repo). At this stage please put your hand up or use the GREEN POST-IT NOTE to let me know that you have done this so I can demo merging your pull request on the projector for the class.
+Thats it, you can leave this page as your changes have been sent to the original package maintainers (basically everyone who has push access to the original repo). 
+
+At this stage please put your hand up or use the GREEN POST-IT NOTE from the first day to let me know that you have done this so I can demo merging your pull request on the projector for the class.
 
 Congratulations! You have just contributed to this open source project ;)
 
