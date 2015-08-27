@@ -25,7 +25,9 @@ For this second _hands-on_ GitHub demo please complete the steps in each of the 
 
 - Now browse the two online version of this same repo on the websites of [GitHub](https://github.com/bioboot/demo2-github) and [Bitbucket](https://bitbucket.org/bjgrant/demo2-github/).
 
-- Which do you prefer, GitHub or Bitbucket? Plese discuss with your neighbor and let your instructors know so we can discuss more broadly wit the class.
+- Which do you prefer, GitHub or Bitbucket? Please discuss with your 
+neighbor and let your instructors know so we can discuss more broadly 
+with the class.
 
 
 
@@ -40,7 +42,8 @@ There are two basic models for collaborating on GitHub and BitBucket. These are 
 
 
 
-You already have a cone of this repo on your local machine from step one above that you can modify locally and also use `git pull origin master` to sync with any subsequent changes in the original GitHub repo. **However, you don't have permissions to actually `push` your changes to this original GitHub repo**. Go ahead and try if you like… 
+You already have a clone of this repo on your local machine from step 
+one above that you can modify locally and also use `git pull origin master` to sync with any subsequent changes in the original GitHub repo. **However, you don't have permissions to actually `push` your changes to this original GitHub repo**. Go ahead and try if you like… 
 
 > Side-Note: If you were added as a 'collaborator' on the repo then you would be able to **git push origin master**, in the same way you did for your own repo in demo1, and contribute your changes directly. This is simply the **shared repository model** and you can create your own by adding 'collaborators' to your own GitHub repos under the *Settings* link. For now we focus on the more complicated but common **fork and pull** approach. 
 
@@ -52,14 +55,15 @@ Below we will explore the **fork & pull** approach as it can be used with any pu
 ## 3. Fork and pull
 To get your changes incorporated into someone else's repo that you are not an official *collaborator* on requires us to first **fork** the original repo, then **clone** it to your local computer, make and commit your changes and finally submit something called a **pull request**.
 
-Like many things in the computing world this sounds more complicated than it really is so lets start by **forking** this repo - All this does is create a completely separate copy of the repo under **YOUR** GitHub account.
+Like many things in the computing world this sounds more complicated 
+than it really is so let's start by **forking** this repo - All this does is create a completely separate copy of the repo under **YOUR** GitHub account.
 
 - To do this click the **Fork** button towards the very top right of THIS original GitHub repo 
 ![img1](https://help.github.com/assets/images/help/repository/fork_button.jpg)
 
 - Now after a short time you should be taken to a new webpage displaying your OWN fork (i.e. your personal copy) of the repo under your GitHub account.
 
-- Examine this forked repo. It should look excately the same as the origional but with the subtle "forked from bioboot/demo2-github" note under the title.
+- Examine this forked repo. It should look excately the same as the original but with the subtle "forked from bioboot/demo2-github" note under the title.
 
 - We will now clone this forked repo to your local computer by using the link provided from clicking the somewhat obscure **copy icon** (see image below for an example of the clipboard like icon GitHub like to use).
 
@@ -80,7 +84,8 @@ Like many things in the computing world this sounds more complicated than it rea
     #echo “**Barry**:  Git and GitHub has a step learning curve” >> JustOneThing.md
 ```
 
-For example, add YOUR first name in bold (i.e. surrounded by two starts on either side) and one thing that was not completely clear from todays class thus far (e.g. "staging area", "remote repos" or "where is the coffee?").
+For example, add YOUR first name in bold (i.e. surrounded by two starts 
+on either side) and one thing that was not completely clear from today's class thus far (e.g. "staging area", "remote repos" or "where is the coffee?").
 
 
 - Once you have edited your file in nano go through the regular **git add/commit/push** steps, e.g.
@@ -93,7 +98,8 @@ For example, add YOUR first name in bold (i.e. surrounded by two starts on eithe
 
 - Check that your changes are on-line in YOUR GitHub forked copy.
 
-- Do a final check that your repo is uptodate with the origional repo from which you forked by doing a regular git pull but directed to the origional repo.
+- Do a final check that your repo is uptodate with the original repo 
+from which you forked by doing a regular git pull but directed to the original repo.
 
 ```
     # First set the original repo as a remote with the name "upstream" 
