@@ -108,11 +108,15 @@ For example, add YOUR first name in bold (i.e. surrounded by two starts on eithe
 
 ![pull request button](https://help.github.com/assets/images/help/pull_requests/pull-request-start-review-button.png)
 
-- On the subsequent page click the large **New pull request** green button (see below).
+- On the subsequent **Comparing changes** page you may need to select the **base fork** as `bioboot/demo2-github` (this is the original repo) and the **head fork** as your **YourUserName/demo2-github** (YOUR forked repo with your committed change). 
+
+- Typically, however you will not need to change settings and will see a note saying that **These branches can be automatically merged**. 
+
+Click the large **Create pull request** button (see below)
 
 ![create pull request button](https://help.github.com/assets/images/help/pull_requests/pull-request-click-to-create.png)
 
-- If you have a note saying that *These branches can be automatically merged* You should add a message describing your changes such as “Eva's name and sentence changes from fork” and click **Create pull request** button to submit your changes for review to the original repo.
+- Add a note describing your changes such as “Eva's name and sentence changes from fork” and click the final **Create pull request** button to submit your changes for review to the original repo.
 
 ![Final create pull request button](https://help.github.com/assets/images/help/pull_requests/pullrequest-send.png)
 
