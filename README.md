@@ -93,7 +93,9 @@ For example, add your first name in bold (i.e. surrounded by two starts on eithe
 
 - Check that your changes are on-line in YOUR GitHub forked copy.
 
-- Now go to the **pull requests** link on the right hand side
+- Now on YOUR GitHub forked copy click the little green **Compare, Review and create pull request** button toward the top left of the page and that has the two little curved arrows (see below).
+
+![pull request button](https://help.github.com/assets/images/help/pull_requests/pull-request-start-review-button.png)
 
 - Click the **New pull request** green button
 
