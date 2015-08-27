@@ -97,14 +97,16 @@ For example, add your first name in bold (i.e. surrounded by two starts on eithe
 
 ![pull request button](https://help.github.com/assets/images/help/pull_requests/pull-request-start-review-button.png)
 
-- Click the **New pull request** green button
+- On the subsequent page click the large **New pull request** green button (see below).
 
-- It should say *These branches can be automatically merged*
+![create pull request button](https://help.github.com/assets/images/help/pull_requests/pull-request-click-to-create.png)
 
-- Add a message such as “Eva's changes from fork” and click **Create pull request** button.
+- If you have a note saying that *These branches can be automatically merged* You should add a message describing your changes such as “Eva's name and sentence changes from fork” and click **Create pull request** button.
+
+![Final create pull request button](https://help.github.com/assets/images/help/pull_requests/pullrequest-send.png)
 
 
-Your changes have been sent to the package maintainer so put your hand up and let me know you have done this so I can demo merging your pull request on the projector for the class.
+Thats it, you can leave this page as your changes have been sent to the package maintainers (everyone who has push access on the original repo). At this stage please put your hand up or use the GREEN POST-IT NOTE to let me know that you have done this so I can demo merging your pull request on the projector for the class.
 
 Congratulations! You have just contributed to this open source project ;)
 
