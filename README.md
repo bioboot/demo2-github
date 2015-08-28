@@ -1,7 +1,3 @@
-# Check this out!!!
-
-[A good explanation on how Git-based collaboration work](https://bitbucket.org/spooning/)
-
 # GitHub Demo2 
 This is an example for students of [Biocomputing Bootcamp](http://bioboot.github.io/web-2015/) BIOS606 2015
 
