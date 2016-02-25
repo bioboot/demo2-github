@@ -5,4 +5,4 @@
 **Ana**: hopefully waffles  
 **Pete**: This is going to be very useful - thanks!  
 **Zach**: How is git able to store so many snapshots in a space efficient manner?  
-
+**Emily**: There isn't enough coffee in the world to keep me awake this morning.
