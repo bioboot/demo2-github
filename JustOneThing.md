@@ -6,3 +6,4 @@
 **Pete**: This is going to be very useful - thanks!  
 **Zach**: How is git able to store so many snapshots in a space efficient manner?  
 
+**Shriya**: Just trying to understand the fork-and-pull strategy
