@@ -110,6 +110,8 @@ For example, add YOUR first name in bold (i.e. surrounded by two starts on eithe
 
 - On the subsequent **Comparing changes** page you may need to select the **base fork** as `bioboot/demo2-github` (this is the original repo) and the **head fork** as your **YourUserName/demo2-github** (YOUR forked repo with your committed change). 
 
+![merge across forks](https://raw.githubusercontent.com/bioboot/demo2-github/master/pullrequest.png)  
+
 - Typically, however you will not need to change settings and will see a note saying that **These branches can be automatically merged**. 
 
 Click the large **Create pull request** button (see below)
