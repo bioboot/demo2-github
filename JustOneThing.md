@@ -10,3 +10,4 @@
 **Annon**:  Git and GitHub is going to be useful
 **Sara**: How do I un-git my project, i.e. stop tracking?  
 
+**Bobby Klemmer**:  This is driving me crazy now
