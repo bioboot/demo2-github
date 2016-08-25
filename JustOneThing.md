@@ -13,5 +13,5 @@
 **Barry**: Git and GitHub has a step learning curve  
 **Annon**:  Git and GitHub is going to be useful
 **Sara**: How do I un-git my project, i.e. stop tracking?  
-**DQ**: Git and Github has a steep learning curve - Yeap!
+**DQ**: Git and Github has a steep learning curve - Yeap!  
 **Veronica**: Git has a learning curve.
