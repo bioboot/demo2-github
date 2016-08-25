@@ -127,6 +127,8 @@ Thats it, you can leave this page as your changes have been sent to the original
 
 At this stage please put your hand up or use the GREEN POST-IT NOTE from the first day to let me know that you have done this so I can demo merging your pull request on the projector for the class.
 
+#### Congratulations
+
 Congratulations! You have just contributed to this open source project ;)
 
 
