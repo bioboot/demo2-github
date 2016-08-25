@@ -7,3 +7,4 @@
 **Zach**: How is git able to store so many snapshots in a space efficient manner?  
 
 **Barry**: Git and GitHub has a step learning curve
+**Elizabeth**: I cloned myForkedCopy (with a repository) into my git_class folder (which also has a repository)... do we have to be careful about nesting like that?
