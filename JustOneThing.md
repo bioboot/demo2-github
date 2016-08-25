@@ -7,3 +7,5 @@
 **Zach**: How is git able to store so many snapshots in a space efficient manner?  
 
 **Barry**: Git and GitHub has a step learning curve
+**Nick**: Why couldn't we get free lunch everyday? :(
+**Nick**: Test2
