@@ -6,5 +6,12 @@
 **Pete**: This is going to be very useful - thanks!  
 **Zach**: How is git able to store so many snapshots in a space efficient manner?  
 
+<<<<<<< HEAD
 **Barry**: Git and GitHub has a step learning curve
 **Amy**: checkout versus revert.
+=======
+**Barry**: Git and GitHub has a step learning curve  
+**Annon**:  Git and GitHub is going to be useful
+**Sara**: How do I un-git my project, i.e. stop tracking?  
+
+>>>>>>> 88c0925719996dbd94d3ef517838cf749baf76fa
