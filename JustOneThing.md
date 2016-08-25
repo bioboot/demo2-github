@@ -7,4 +7,4 @@
 **Zach**: How is git able to store so many snapshots in a space efficient manner?  
 
 **Barry**: Git and GitHub has a step learning curve
-**Sophie**: Need to contribute to a colleague's repo
+**Sophie**: Finally able to contribute to a colleague's repo
