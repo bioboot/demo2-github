@@ -7,4 +7,5 @@
 **Zach**: How is git able to store so many snapshots in a space efficient manner?  
 
 **Barry**: Git and GitHub has a step learning curve
+
 **YJHeo**: It would be great to know how to navigate the git in RStudio.
