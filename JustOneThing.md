@@ -7,4 +7,4 @@
 **Zach**: How is git able to store so many snapshots in a space efficient manner?  
 
 **Barry**: Git and GitHub has a step learning curve
-**Adam** Where's the coffee?
+**Adam** Looking forward to using git for statistics projects! I hope other student use it...
