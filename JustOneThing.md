@@ -9,3 +9,7 @@
 **Annon**:  Git and GitHub is going to be useful
 **Sara**: How do I un-git my project, i.e. stop tracking?  
 **Adam** Looking forward to using git for statistics projects! I hope other student use it...
+**Amy**: checkout versus revert.
+**Barry**: Git and GitHub has a step learning curve  
+**Annon**:  Git and GitHub is going to be useful
+**Sara**: How do I un-git my project, i.e. stop tracking?  
