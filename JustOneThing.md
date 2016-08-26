@@ -18,3 +18,6 @@
 **Emily**: There isn't enough coffee in the world to keep me awake this morning.    
 **Ye**: Do people usually use Git to only handle text based files (codes, notes, etc.) or it is also able to handle other binary format files? (e.g. image based data?)  
 **YJHeo**: It would be great to know how to navigate the git in RStudio.  
+**Elizabeth**: I cloned myForkedCopy (with a repository) into my git_class folder (which also has a repository)... do we have to be careful about nesting like that?  
+
+
