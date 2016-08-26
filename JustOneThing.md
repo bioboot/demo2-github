@@ -14,4 +14,4 @@
 **Kat**: Why doesn't this room have a clock?    
 **DQ**: Git and Github has a steep learning curve - Yeap!  
 **Veronica**: Git has a learning curve.  
-
+**Steve**: Git for RStudio  
