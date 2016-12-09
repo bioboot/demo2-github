@@ -22,3 +22,4 @@
 **Nick**: Why couldn't we get free lunch everyday? :(  
 **Nick**: Test2  
 
+**nravooru**: Git and GitHub has a steep learning curve
