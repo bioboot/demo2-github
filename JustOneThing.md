@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 **Barry**: Git and GitHub has a steep learning curve  
 **Student**: It is not that bad  
 **Dave**: Should we use this pull request approach for collaborative class projects?  
@@ -23,3 +24,7 @@
 **Nick**: Test2  
 
 **Katherine**: remember all the commands...
+=======
+**Alan**: Git and GitHub has a steep learning curve  
+**Josh**: Where is the coffee?
+>>>>>>> 859e04f5eb9d5a0d1e77061a31711beaaba49e61
