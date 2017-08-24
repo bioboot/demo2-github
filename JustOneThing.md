@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 **Barry**: Git and GitHub has a steep learning curve  
 **Student**: It is not that bad  
 **Dave**: Should we use this pull request approach for collaborative class projects?  
@@ -22,3 +23,8 @@
 **Nick**: Why couldn't we get free lunch everyday? :(  
 **Nick**: Test2  
 
+**Emily**: Do you think git will be around for a while or will something new take over?
+=======
+**Alan**: Git and GitHub has a steep learning curve  
+**Josh**: Where is the coffee?
+>>>>>>> 859e04f5eb9d5a0d1e77061a31711beaaba49e61
