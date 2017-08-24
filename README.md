@@ -18,12 +18,12 @@ For this second _hands-on_ GitHub demo please complete the steps in each of the 
 
 - Clone this repo with 
 ```
-    git clone https://github.com/bioboot/demo2-github.git
+    git clone https://github.com/aboyle/demo2-github.git
 ```
 
 - Then `cd demo2-github/` and use your command line knowledge of git to inspect history (`git log`), contributors (`git blame`) and differences (`git diff`).
 
-- Now browse the two online version of this same repo on the websites of [GitHub](https://github.com/bioboot/demo2-github) and [Bitbucket](https://bitbucket.org/bjgrant/demo2-github/).
+- Now browse the two online version of this same repo on the websites of [GitHub](https://github.com/aboyle/demo2-github) and [Bitbucket](https://bitbucket.org/bjgrant/demo2-github/).
 
 - Which do you prefer, GitHub or Bitbucket? Plese discuss with your neighbor and let your instructors know so we can discuss more broadly wit the class.
 
