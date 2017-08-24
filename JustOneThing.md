@@ -22,3 +22,4 @@
 **Nick**: Why couldn't we get free lunch everyday? :(  
 **Nick**: Test2  
 
+**Emily**: Do you think git will be around for a while or will something new take over?
