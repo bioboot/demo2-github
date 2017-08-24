@@ -7,3 +7,5 @@
 **Ford**: Git and GitHub has a step learning curve   
 **Ford**: Had picked the wrong fork.   
 **Han**: staging area   
+**Armand**: Git and GitHub has a step learning curve   
+
