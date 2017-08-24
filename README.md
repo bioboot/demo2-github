@@ -77,7 +77,7 @@ Like many things in the computing world this sounds more complicated than it rea
 
 ```
     cd myForkedCopy
-    #echo “**Barry**:  Git and GitHub has a step learning curve” >> JustOneThing.md
+    #echo “**Alan**:  Git and GitHub has a step learning curve” >> JustOneThing.md
 ```
 
 For example, add YOUR first name in bold (i.e. surrounded by two starts on either side) and one thing that was not completely clear from todays class thus far (e.g. "staging area", "remote repos" or "where is the coffee?").
@@ -97,7 +97,7 @@ For example, add YOUR first name in bold (i.e. surrounded by two starts on eithe
 
 ```
     # First set the original repo as a remote with the name "upstream" 
-    git remote add upstream https://github.com/bioboot/demo2-github.git
+    git remote add upstream https://github.com/aboyle/demo2-github.git
 
     # List the location/address of your remotes
     git remote -v
@@ -110,7 +110,7 @@ For example, add YOUR first name in bold (i.e. surrounded by two starts on eithe
 
 - On the subsequent **Comparing changes** page you may need to select the **base fork** as `bioboot/demo2-github` (this is the original repo) and the **head fork** as your **YourUserName/demo2-github** (YOUR forked repo with your committed change). 
 
-![merge across forks](https://raw.githubusercontent.com/bioboot/demo2-github/master/pullrequest.png)  
+![merge across forks](https://raw.githubusercontent.com/aboyle/demo2-github/master/pullrequest.png)  
 
 - Typically, however you will not need to change settings and will see a note saying that **These branches can be automatically merged**. 
 
