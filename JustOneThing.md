@@ -1,7 +1,11 @@
-**Alan**: Git and GitHub has a steep learning curve
-**Josh**: Where is the coffee?
-**Elisa**: Peanut butter jelly time
-**christina**: Git and GitHub have a steep learning curve: staging area
-**Yatong**: Edited on the forked copy
-**AUBREY**: cloning
-**Meow**: meow
+**Alan**: Git and GitHub has a steep learning curve  
+**Josh**: Where is the coffee?   
+**Elisa**: Peanut butter jelly time   
+**christina**: Git and GitHub have a steep learning curve: staging area   
+**Yatong**: Edited on the forked copy   
+**AUBREY**: cloning   
+**Ford**: Git and GitHub has a step learning curve   
+**Ford**: Had picked the wrong fork.   
+**Han**: staging area   
+**Armand**: Git and GitHub has a step learning curve   
+**Meow**: meow   
