@@ -22,3 +22,5 @@
 **Nick**: Why couldn't we get free lunch everyday? :(  
 **Nick**: Test2  
 
+**christina**: Git and GitHub have a steep learning curve: staging area
+**christina**: Git and GitHub have a steep learning curve: staging area
