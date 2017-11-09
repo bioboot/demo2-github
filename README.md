@@ -1,5 +1,4 @@
 # GitHub Demo2 
-This is an example for students of BIOINF575 and [Biocomputing Bootcamp](http://bioboot.github.io/web-2015/) BIOS606
 
 ### Overview
 We will first use this repo to inspect how GitHub and BitBucket present commit history and their associated differences. Then we will explore different way to collaborate with others through the GitHub version of this repo.
