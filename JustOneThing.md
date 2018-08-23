@@ -23,4 +23,4 @@
 **Nick**: Test2 
 **Madeline**: merging changes
 **Wenbo**: Git and GitHub has a step learning curve
-
+**Qianhui**: Finally working..
