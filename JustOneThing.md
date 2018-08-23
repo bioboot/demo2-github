@@ -1,3 +1,4 @@
+**Jonathan** Git and Github has a steep learning curve
 **Barry**: Git and GitHub has a steep learning curve  
 **Student**: It is not that bad  
 **Dave**: Should we use this pull request approach for collaborative class projects?  
@@ -23,4 +24,6 @@
 **Nick**: Test2 
 **Madeline**: merging changes
 **Wenbo**: Git and GitHub has a step learning curve
+
+
 
