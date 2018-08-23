@@ -23,3 +23,4 @@
 **Nick**: Test2  
 
 **Kari**: Git and GitHub have steep learning curves
+**Kari**: Merge Errors are Life
