@@ -24,3 +24,4 @@
 **Madeline**: merging changes
 **Wenbo**: Git and GitHub has a step learning curve
 
+**Ketian**: Git and GitHub has a step learning curve
