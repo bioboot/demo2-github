@@ -22,3 +22,4 @@
 **Nick**: Why couldn't we get free lunch everyday? :(  
 **Nick**: Test2  
 
+**Wenbo**: Git and GitHub has a step learning curve
