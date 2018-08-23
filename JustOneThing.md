@@ -24,3 +24,5 @@
 **Madeline**: merging changes
 **Wenbo**: Git and GitHub has a step learning curve
 
+**Kari**: Git and GitHub have steep learning curves
+**Kari**: Merge Errors are Life
