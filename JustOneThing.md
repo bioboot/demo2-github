@@ -1,3 +1,4 @@
+**Jonathan** Git and Github has a steep learning curve
 **Barry**: Git and GitHub has a steep learning curve  
 **Student**: It is not that bad  
 **Dave**: Should we use this pull request approach for collaborative class projects?  
@@ -21,4 +22,6 @@
 **Elizabeth**: I cloned myForkedCopy (with a repository) into my git_class folder (which also has a repository)... do we have to be careful about nesting like that?  
 **Nick**: Why couldn't we get free lunch everyday? :(  
 **Nick**: Test2  
+
+
 
